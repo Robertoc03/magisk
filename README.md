@@ -1,1 +1,1 @@
-# magisk
+read.me
